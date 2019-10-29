@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-25T15:10:16 EDT" name="Default suite" finished-at="2019-09-25T15:10:30 EDT" duration-ms="14176">
+    <groups>
+    </groups>
+    <test started-at="2019-09-25T15:10:16 EDT" name="Default test" finished-at="2019-09-25T15:10:30 EDT" duration-ms="14176">
+      <class name="com.CraftsVilla.FirstSareePurchase">
+        <test-method is-config="true" signature="loginpage(java.lang.String)[pri:0, instance:com.CraftsVilla.FirstSareePurchase@55740540]" started-at="2019-09-25T15:10:16 EDT" name="loginpage" finished-at="2019-09-25T15:10:26 EDT" duration-ms="10832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="SareePurchase()[pri:0, instance:com.CraftsVilla.FirstSareePurchase@55740540]" started-at="2019-09-25T15:10:26 EDT" name="SareePurchase" finished-at="2019-09-25T15:10:30 EDT" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SareePurchase -->
+      </class> <!-- com.CraftsVilla.FirstSareePurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
